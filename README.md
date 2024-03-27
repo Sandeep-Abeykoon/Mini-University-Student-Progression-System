@@ -1,2 +1,2 @@
-# Mini-University-Student-Progression-System
-A python program to analyze student marks and give the student progression data.
+# University-Student-Progression-Program
+A Java program which shows analyze and shows the student progression in multiple data visualization ways.
